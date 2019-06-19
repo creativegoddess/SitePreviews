@@ -41,7 +41,7 @@
     "sitemapSwitcher": "on",
     "google-analytics": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.10.4"
   },
   "pages": {
@@ -908,6 +908,57 @@
           ],
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2019southernmuscleguide-hyperlinks-page-1-1400x1812.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Southern Muscle Guide 2019",
+          "text": "Southern Muscle Guide is an annual directory of resources for competition training in the southern states of Georgia, Northern FL, Alabama, South Carolina, North Carolina, Kentucky &amp; Tennessee. The overall mission of this publication is to support and encourage the sport of bodybuilding with a goal to include a listing of shows as well as resources for the competitors so that they may have the best experience possible.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/2019SouthernMuscleGuide-Hyperlinks-1.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-f"
         },
         {
           "_inherit": "social-buttons2",
